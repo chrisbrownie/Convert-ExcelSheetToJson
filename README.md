@@ -1,9 +1,3 @@
----
-external help file: 
-online version: https://flamingkeys.com/convert-excel-sheet-json-powershell
-schema: 2.0.0
----
-
 # Convert-ExcelSheetToJson.ps1
 
 ## SYNOPSIS
